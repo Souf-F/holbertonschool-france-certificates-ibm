@@ -23,6 +23,14 @@
 
 ---
 
+## 📁 Personal Certificates
+
+| Certificate | Preview |
+|:-----------:|:-------:|
+| **Web Development Fundamentals** | <img src="certificates-personal/web-development-fundamentals.png" width="300"/> |
+
+---
+
 <div align="center">
 
 *Made with ❤️ at Holberton School France*
