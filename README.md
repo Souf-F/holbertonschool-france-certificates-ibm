@@ -276,11 +276,10 @@
 
 ### 🌟 Fun Facts
 
-**Languages Spoken:** 🇫🇷 French (Native) • 🇬🇧 English (Fluent) • 🇲🇦 Arabic (Native)
+**Languages Spoken:** 🇫🇷 French (Native) • 🇬🇧 English (Fluent)
 
 **Currently Learning:** Purple Team Tactics • Cloud Security (AWS/Azure) • Advanced Penetration Testing
 
-**Favorite Quote:** *"From zero to cyber."* — BREACH
 
 ---
 
