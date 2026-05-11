@@ -17,6 +17,7 @@
 ## 📚 Table of Contents
 
 - [🎯 Trimester 1](#-trimester-1)
+- [🎯 Trimester 2](#-trimester-2)
 - [🌟 Personal Certificates](#-personal-certificates)
 - [💻 Technical Skills](#-technical-skills)
 - [🧠 Soft Skills](#-soft-skills)
@@ -51,6 +52,32 @@
       • Continuous Integration/Deployment
     </td>
     <td><img src="certificates-trimester-1/certificate-agile.png" width="300"/></td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Trimester 2
+
+<table>
+  <tr>
+    <th>Certificate</th>
+    <th>Skills</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td><strong>SQL and Relational Databases 101</strong></td>
+    <td>
+      • Relational Database Model<br>
+      • DDL & DML Statements<br>
+      • CREATE, INSERT, SELECT, UPDATE, DELETE<br>
+      • String Patterns, Ranges & Sets<br>
+      • ORDER BY, GROUP BY, HAVING<br>
+      • INNER JOIN, LEFT/RIGHT/FULL OUTER JOIN<br>
+      • Primary Keys & Foreign Keys<br>
+      • Relational Model Constraints
+    </td>
+    <td><a href="certificates-trimester-2/certificate-sql.pdf">📄 View Certificate (PDF)</a></td>
   </tr>
 </table>
 
@@ -116,6 +143,16 @@
 
 </div>
 
+### Databases
+
+<div align="center">
+
+![IBM Db2](https://img.shields.io/badge/IBM_Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
 ### Cybersecurity Tools & Concepts
 
 <div align="center">
@@ -137,6 +174,7 @@
 | **Cybersecurity** | Threat Intelligence • Risk Assessment • Cryptography • SIEM |
 | **DevOps** | CI/CD • Git/GitHub • Agile/Scrum • Testing Automation |
 | **Networking** | TCP/IP • DNS • Firewalls • VPN • DMZ Architecture |
+| **Databases** | SQL • Relational Model • Joins • Constraints • CRUD Operations |
 
 </div>
 
@@ -214,8 +252,9 @@
 | Category | Completed | In Progress | Total |
 |:--------:|:---------:|:-----------:|:-----:|
 | **Trimester 1** | 2 | 0 | 2 |
+| **Trimester 2** | 1 | 0 | 1 |
 | **Personal** | 2 | 0 | 2 |
-| **Total** | **4** | **0** | **4** |
+| **Total** | **5** | **0** | **5** |
 
 ### Skills Mastery
 
@@ -223,6 +262,7 @@
 |:------:|:-----------------:|:------------:|:-----------:|
 | **Web Development** | 7 | 1 | ![85%](https://progress-bar.dev/85?width=120&color=61DAFB) |
 | **Cybersecurity** | 4 | 1 | ![90%](https://progress-bar.dev/90?width=120&color=DC143C) |
+| **Databases** | 1 | 1 | ![75%](https://progress-bar.dev/75?width=120&color=4479A1) |
 | **Soft Skills** | 11 | 4 | ![88%](https://progress-bar.dev/88?width=120&color=FFD700) |
 
 </div>
@@ -252,11 +292,17 @@
 - ✅ Cybersecurity: On the Defense — Blue Team *(2h05)*
 - ✅ Your Future in Cybersecurity: The Job Market *(1h)*
 
+#### 🗄️ Database Track (1 course)
+- ✅ SQL and Relational Databases 101
+
+#### 🌐 Networking Track (1 course)
+- ✅ Computer Networking Basics: How Computers Communicate
+
 <div align="center">
 
 ### 📈 Total Learning Hours
 
-**19+ hours** of hands-on training across Web Development and Cybersecurity domains
+**21+ hours** of hands-on training across Web Development, Cybersecurity and Database domains
 
 </div>
 
@@ -278,12 +324,12 @@
 
 **Languages Spoken:** 🇫🇷 French (Native) • 🇬🇧 English (Fluent)
 
-**Currently Learning:** Purple Team Tactics • Cloud Security (AWS/Azure) • Advanced Penetration Testing
+**Currently Learning:** Purple Team Tactics • Cloud Security (AWS/Azure) • Advanced Penetration Testing • SQL & Database Administration
 
 
 ---
 
-*Last updated: April 6, 2026*
+*Last updated: May 11, 2026*
 
 **Made with ❤️ by Soufiane Filali**
 
