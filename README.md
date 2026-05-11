@@ -1,18 +1,21 @@
 <div align="center">
+
 # 🎓 Holberton School France — IBM Certificates
- 
+
 <img src="https://img.shields.io/badge/Holberton-School-red?style=for-the-badge&logo=holberton&logoColor=white" alt="Holberton School"/>
 <img src="https://img.shields.io/badge/IBM-Certificates-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
 <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" alt="Status"/>
+
 ---
- 
+
 > *A collection of IBM certificates earned during the Holberton School France curriculum and personal learning journey.*
- 
+
 </div>
+
 ---
- 
+
 ## 📚 Table of Contents
- 
+
 - [🎯 Trimester 1](#-trimester-1)
 - [🎯 Trimester 2](#-trimester-2)
 - [🌟 Personal Certificates](#-personal-certificates)
@@ -20,10 +23,11 @@
 - [🧠 Soft Skills](#-soft-skills)
 - [📊 Progress Overview](#-progress-overview)
 - [🏆 Achievements](#-achievements)
+
 ---
- 
+
 ## 🎯 Trimester 1
- 
+
 <table>
   <tr>
     <th>Certificate</th>
@@ -50,10 +54,11 @@
     <td><img src="certificates-trimester-1/certificate-agile.png" width="300"/></td>
   </tr>
 </table>
+
 ---
- 
+
 ## 🎯 Trimester 2
- 
+
 <table>
   <tr>
     <th>Certificate</th>
@@ -72,13 +77,13 @@
       • Primary Keys & Foreign Keys<br>
       • Relational Model Constraints
     </td>
-    <td><img src="certificates-trimester-2/certificate-sql.png" width="300"/></td>
-  </tr>
+    <td><img src="certificates-trimester-2/certificate-sql.png" width="300"/></td>  </tr>
 </table>
+
 ---
- 
+
 ## 🌟 Personal Certificates
- 
+
 <table>
   <tr>
     <th>Certificate</th>
@@ -110,48 +115,58 @@
     <td><img src="certificates-personal/cybersecurity-fundamentals.png" width="300"/></td>
   </tr>
 </table>
+
 ---
- 
+
 ## 💻 Technical Skills
- 
+
 ### Programming Languages
- 
+
 <div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+
 </div>
+
 ### Frameworks & Libraries
- 
+
 <div align="center">
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
- 
+
 </div>
+
 ### Databases
- 
+
 <div align="center">
+
 ![IBM Db2](https://img.shields.io/badge/IBM_Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+
 </div>
+
 ### Cybersecurity Tools & Concepts
- 
+
 <div align="center">
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
- 
+
 </div>
+
 ### Key Competencies
- 
+
 <div align="center">
+
 | Domain | Skills |
 |:------:|:------:|
 | **Web Development** | Responsive Design • SEO • Accessibility • Web Performance |
@@ -159,16 +174,19 @@
 | **DevOps** | CI/CD • Git/GitHub • Agile/Scrum • Testing Automation |
 | **Networking** | TCP/IP • DNS • Firewalls • VPN • DMZ Architecture |
 | **Databases** | SQL • Relational Model • Joins • Constraints • CRUD Operations |
- 
+
 </div>
+
 ---
- 
+
 ## 🧠 Soft Skills
- 
+
 <div align="center">
+
 ### Professional Competencies Acquired
- 
+
 </div>
+
 <table>
   <tr>
     <th>Skill</th>
@@ -211,46 +229,53 @@
     <td>⭐⭐⭐⭐</td>
   </tr>
 </table>
+
 <div align="center">
+
 ### Additional Professional Skills
- 
+
 ![Agile](https://img.shields.io/badge/Agile_Methodology-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project_Management-FF6C37?style=for-the-badge&logo=trello&logoColor=white)
 ![Technical Writing](https://img.shields.io/badge/Technical_Writing-1E90FF?style=for-the-badge&logo=markdown&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-DC143C?style=for-the-badge&logo=security&logoColor=white)
- 
+
 </div>
+
 ---
- 
+
 ## 📊 Progress Overview
- 
+
 <div align="center">
+
 | Category | Completed | In Progress | Total |
 |:--------:|:---------:|:-----------:|:-----:|
 | **Trimester 1** | 2 | 0 | 2 |
 | **Trimester 2** | 1 | 0 | 1 |
 | **Personal** | 2 | 0 | 2 |
 | **Total** | **5** | **0** | **5** |
- 
+
 ### Skills Mastery
- 
+
 | Domain | Courses Completed | Certificates | Proficiency |
 |:------:|:-----------------:|:------------:|:-----------:|
 | **Web Development** | 7 | 1 | ![85%](https://progress-bar.dev/85?width=120&color=61DAFB) |
 | **Cybersecurity** | 4 | 1 | ![90%](https://progress-bar.dev/90?width=120&color=DC143C) |
 | **Databases** | 1 | 1 | ![75%](https://progress-bar.dev/75?width=120&color=4479A1) |
 | **Soft Skills** | 11 | 4 | ![88%](https://progress-bar.dev/88?width=120&color=FFD700) |
- 
+
 </div>
+
 ---
- 
+
 ## 🏆 Achievements
- 
+
 <div align="center">
+
 ### 🎯 Completed Learning Paths
- 
+
 </div>
+
 #### 🌐 Web Development Track (7 courses)
 - ✅ Fundamentals of the Web *(1h40)*
 - ✅ Web Development for the Web *(1h40)*
@@ -259,46 +284,52 @@
 - ✅ Testing & Deploying Web Sites *(1h30)*
 - ✅ Interactive Web Page — To-Do List *(1h50)*
 - ✅ Your Future in Web Development
+
 #### 🔐 Cybersecurity Track (4 courses)
 - ✅ Introduction to Cybersecurity *(1h15)*
 - ✅ Cybersecurity: On the Offensive — Red Team *(2h50)*
 - ✅ Cybersecurity: On the Defense — Blue Team *(2h05)*
 - ✅ Your Future in Cybersecurity: The Job Market *(1h)*
+
 #### 🗄️ Database Track (1 course)
 - ✅ SQL and Relational Databases 101
+
 #### 🌐 Networking Track (1 course)
 - ✅ Computer Networking Basics: How Computers Communicate
+
 <div align="center">
+
 ### 📈 Total Learning Hours
- 
+
 **21+ hours** of hands-on training across Web Development, Cybersecurity and Database domains
- 
+
 </div>
+
 ---
- 
+
 <div align="center">
+
 ## 📫 Contact
- 
+
 **Soufiane Filali**
- 
+
 [![GitHub](https://img.shields.io/badge/GitHub-soufianefilali-181717?style=for-the-badge&logo=github)](https://github.com/soufianefilali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/soufianefilali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-BREACH-FF003C?style=for-the-badge&logo=react&logoColor=white)](https://breach.dev)
- 
+
 ---
- 
+
 ### 🌟 Fun Facts
- 
+
 **Languages Spoken:** 🇫🇷 French (Native) • 🇬🇧 English (Fluent)
- 
+
 **Currently Learning:** Purple Team Tactics • Cloud Security (AWS/Azure) • Advanced Penetration Testing • SQL & Database Administration
- 
- 
+
+
 ---
- 
+
 *Last updated: May 11, 2026*
- 
+
 **Made with ❤️ by Soufiane Filali**
- 
+
 </div>
- 
